@@ -1,0 +1,14 @@
+[
+  {
+    "repository":"crdroidandroid/android_kernel_motorola_sm7325",
+    "target_path":"kernel/motorola/sm7325"
+  },
+  {
+    "repository":"crdroidandroid/proprietary_vendor_motorola_sm7325-common",
+    "target_path":"vendor/motorola/sm7325-common"
+  },
+  {
+    "repository":"crdroidandroid/android_hardware_motorola",
+    "target_path":"hardware/motorola"
+  }
+]
