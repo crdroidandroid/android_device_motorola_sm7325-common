@@ -9,7 +9,7 @@
   },
   {
     "repository":"crdroidandroid/android_hardware_motorola",
-    "target_path":"hardware/motorola"
+    "target_path":"hardware/motorola",
     "branch":"15.0-V2"
   }
 ]
